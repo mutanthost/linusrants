@@ -1,9 +1,10 @@
 # linusrants
 Just a collection of all the rants from Linus Torvalds on the kernel mailing list from 2012 to 2015 classified by the amount of hate and sorted by it.
-All I added was scrape the .tsv for the text, named that LINUS_RANTS.csv so I could then randomize them and pipe them to say as in:
+All I did was scrape the .tsv for the text, named that LINUS_RANTS.csv so I could then randomize them and pipe them to say as in:
 
 # shuf LINUS_RANTS.csv -n 100 | say
 
+I then replaced the multiple * astericks with vowels so it is more understandable when spoken
 ## Data
 
 |  Rant	  |         Hate           |
